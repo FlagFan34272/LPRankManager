@@ -1,0 +1,16 @@
+name: AdminPanel
+version: '${project.version}'
+main: me.adpanel.adminpanel.AdminPanel
+api-version: 1.18
+commands:
+  rankset:
+    description:
+    usage:
+    aliases: [rs]
+
+  rankchange:
+    description:
+
+  rankunset:
+    description:
+
