@@ -22,6 +22,7 @@ public final class AdminPanel extends JavaPlugin implements Listener {
             if(sender.isOp()) {
             if (args.length == 2) {
 
+                //여기 필요 없는데 왜 넣어둿지;
                 String grName = null;
                 String grPriority = null;
                 if (args[1].equalsIgnoreCase("owner")) {
@@ -60,6 +61,7 @@ public final class AdminPanel extends JavaPlugin implements Listener {
                     grName = "&e[ VIP ]";
                     grPriority = "7";
                 }
+                
 
 
 //rankset flag_Fan group
