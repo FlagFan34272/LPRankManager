@@ -5,3 +5,4 @@
 ## Commands
 - /rankset
 - /rankchange
+- /rankunset
